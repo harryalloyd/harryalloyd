@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harryalloyd
 - 👀 I’m interested in ... working on projects
 - 🌱 I’m currently learning ... C++ and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Linkedin -> harrisonlloyd1   discord -> harrisonlloyd123
+- 💞️ I’m looking to collaborate on ... anything so feel free to hit me up
+- 📫 How to reach me ... Linkedin -> harrisonlloyd1    ...  discord -> harrisonlloyd123
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm ginger
 
